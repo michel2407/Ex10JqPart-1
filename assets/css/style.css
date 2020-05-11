@@ -1,5 +1,23 @@
-.green{
-  color : green;
-  background-size: 40px;
-  
+#green{
+  background-color: green;
+  width: 20px;
+  height: 20px;
+    margin: 10px;
+}
+#red{
+  background-color: red;
+  width: 20px;
+  height: 20px;
+    margin: 10px;
+}
+#blue{
+  background-color: blue;
+  width: 20px;
+  height: 20px;
+    margin: 10px;
+}
+#colorButton{
+  display: flex;
+  flex-direction: row;
+
 }
